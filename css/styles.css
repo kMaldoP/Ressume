@@ -1,13 +1,23 @@
 .jumbotron {
   background-color: rgb(106, 190, 230);
   text-align: center;
+  font-family:"lobster" , cursive;
 }
+
 .card-header{
     background-color:rgb(110, 154, 248);
 }
+
 .card-body{
     background-color:rgb(128, 216, 238)
 }
+
+.section-head , .card-header{
+    border-bottom: 2px solid;
+    font-family: "Lobster" , Cursive; 
+}
+
 body{
     background-color:rgb(186, 231, 252) ;
+    font-family: 'Oswald', sans-serif;
 }
