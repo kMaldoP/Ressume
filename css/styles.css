@@ -1,5 +1,6 @@
 .jumbotron {
   background-color: rgb(106, 190, 230);
+  background-image: ;
   text-align: center;
   font-family:"lobster" , cursive;
 }
@@ -12,9 +13,14 @@
     background-color:rgb(128, 216, 238)
 }
 
-.section-head , .card-header{
+.section-head, .card-header{
+    padding:.3em;
     border-bottom: 2px solid;
     font-family: "Lobster" , Cursive; 
+}
+.job{
+    border: 1em;
+    text-decoration: underline ;
 }
 
 body{
